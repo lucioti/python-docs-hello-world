@@ -1,0 +1,1 @@
+C:\Users\lucioti\Source\Repos\lucioti\python-docs-hello-world\Learn Flask Project\obj\Debug\Learn Flask Project.pyproj.CoreCompileInputs.cache
